@@ -1,4 +1,4 @@
 # kinectAlpha
 kinectでZbrushのAlpha画像を作る
 
-[リンク](http://kaito.sexy)
+[せくしー](http://kaito.sexy)
