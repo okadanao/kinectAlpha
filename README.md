@@ -1,0 +1,2 @@
+# kinectAlpha
+kinectでZbrushのAlpha画像を作る
